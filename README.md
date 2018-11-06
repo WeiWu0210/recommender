@@ -6,9 +6,18 @@ Create a recommender system that will recommend new musical artists to a user ba
 
 Spark and the collaborative filtering technique is used for this project.
 
+# Installation
+
+ Python version: 3.6.5 was used for this project
+
+ Libraries used: pyspark
+
+ Jupyter Notebook is required
+ 
+
 # Datasets
 
-Data is from publicly avaiable song data from audioscrobbler, which can be found here.
+Data is from publicly avaiable song data from audioscrobbler.
 
 The original data files are modified so that the code will run in a reasonable time on a single machine. The reduced data files have been suffixed with _small.txt and contains only the information relevant to the top 50 most prolific users (highest artist play counts).
 
