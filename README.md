@@ -57,13 +57,8 @@ artist_alias.txt
     you can correct errors in user_artist_data as you read it in using this file
     (we're not yet finished merging this data)
     
-    
-Contact Info
-------------
-rj@audioscrobbler.com
-irc://irc.audioscrobbler.com/audioscrobbler
-
-
+Notes:
+-----
 
 The original data files are modified so that the code will run in a reasonable time on a single machine. The reduced data files have been suffixed with _small.txt and contains only the information relevant to the top 50 most prolific users (highest artist play counts).
 
